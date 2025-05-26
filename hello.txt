@@ -1,1 +1,2 @@
 Hello
+Feature 1 says hello!
